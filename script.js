@@ -4,7 +4,7 @@ var Radius = 8;
 var Margin_Top = 60;
 var Margin_Left = 30;
 //定义倒计时截止时间，注意月份-1
-const endTime = new Date(2016,11,24,08,30,00);
+const endTime = new Date(2017,8,24,08,30,00);
 var curShowTimeSeconds = 0 ;
 
 var balls = [];//定义数组，存储小球
